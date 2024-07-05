@@ -1,6 +1,6 @@
 {
-    "name": "ToDoAppManzi",
-    "short_name": "ManziToDo",
+    "name": "TrujilloApp",
+    "short_name": "TrujilloApp",
     "start_url": "index.html",
     "display": "standalone",
     "orientation": "portrait-primary",
@@ -8,7 +8,7 @@
     "theme_color": "#49DB38",
     "icons": [
         {
-            "src": "/assets/icon.png",
+            "src": "/img/icon.png",
             "type": "image/png",
             "sizes": "512x512"
         }
