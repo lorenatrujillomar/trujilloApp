@@ -11,8 +11,8 @@ const assets = [
     "/scripts/signup.js",
     "/scripts/tasks.js",
     "/scripts/utils.js",
-    "/assets/icon.png",
-    "/assets/loader.gif",
+    "/img/icon.png",
+    "/img/loader.gif",
 ]
 
 self.addEventListener("install", installEvent => {
